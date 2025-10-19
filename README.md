@@ -1,6 +1,6 @@
 # Kaiburr Assessment Package
 
-![App Screenshot](ss.png)
+![App Screenshot](ss.jpeg)
 
 ## Contains:
 - **task1-springboot-taskapi/** – Complete Spring Boot app  
